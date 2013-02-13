@@ -1,14 +1,12 @@
 Full Page Screen Capture
 ========================
 
-A simple Google Chrome extension that takes a screen capture of a full web page. Every extension I tried couldn’t do this on Chrome 22 on Mac OSX Lion. So, I built this one to reliably do it. (Not tested, yet, on any other configurations.)
+A simple Google Chrome extension that takes a screen capture of a full web page.
 
+Made super minimal for confined environments
 ### To Install
 
 From the webstore:
-
-Find the [Full Page Screen Capture App](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) in the Chrome Webstore and click install.
-
 Or, for development:
 
 1. Clone this repo
