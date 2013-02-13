@@ -4,6 +4,15 @@ Full Page Screen Capture
 A simple Google Chrome extension that takes a screen capture of a full web page.
 
 Made super minimal for confined environments
+
+The files you need
+
+page.js
+manifest.json
+icon.png
+popup.html
+popup.js
+
 ### To Install
 
 From the webstore:
